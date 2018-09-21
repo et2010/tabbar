@@ -1,4 +1,4 @@
-;;; Tabbar.el --- Display a tab bar in the header line
+;;; tabbar.el --- Display a tab bar in the header line
 
 ;; Copyright (C) 2003, 2004, 2005 David Ponce
 
@@ -6,7 +6,8 @@
 ;; Maintainer: David Ponce <david@dponce.com>
 ;; Created: 25 February 2003
 ;; Keywords: convenience
-;; Revision: $Id: tabbar.el,v 1.2 2007-08-08 22:24:29 psg Exp $
+;; Version: 2.0
+;; URL: https://github.com/et2010/tabbar
 
 (defconst tabbar-version "2.0")
 
